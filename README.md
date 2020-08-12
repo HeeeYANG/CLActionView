@@ -18,6 +18,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'CLActionView'
+pod 'CLActionView',:git =>"https://github.com/HeeeYANG/CLActionView.git"
 ```
 
 ## Author
