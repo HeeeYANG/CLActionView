@@ -1,0 +1,6 @@
+framework module CLActionView {
+  umbrella header "CLActionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
